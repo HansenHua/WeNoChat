@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/loginbackground.png</file>
+        <file>assets/defaultHead.png</file>
+        <file>assets/loading.gif</file>
+        <file>assets/textwenochat.png</file>
+        <file>assets/biaoqing.png</file>
+        <file>assets/wenjian.png</file>
+        <file>assets/zhaopian.png</file>
+        <file>assets/jiandao.png</file>
+        <file>assets/emoji/大哭.jpeg</file>
+        <file>assets/emoji/点赞.jpeg</file>
+        <file>assets/emoji/好！.jpg</file>
+        <file>assets/emoji/渴望.jpeg</file>
+        <file>assets/emoji/冷笑.jpeg</file>
+        <file>assets/emoji/求求你了.jpeg</file>
+        <file>assets/emoji/微笑.jpg</file>
+        <file>assets/emoji/装傻.jpeg</file>
+        <file>assets/emoji/aaa.png</file>
+        <file>assets/preview.jpg</file>
+        <file>assets/check.jpg</file>
+        <file>assets/cross.jpg</file>
+        <file>assets/save.jpg</file>
+        <file>assets/settings.jpg</file>
+        <file>assets/head.png</file>
+        <file>assets/cross.png</file>
+        <file>assets/minimize.png</file>
+        <file>assets/settings.png</file>
+    </qresource>
+</RCC>
